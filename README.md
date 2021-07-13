@@ -83,12 +83,6 @@ npm run build-prod
 
 Now, your theme is ready to be deployed. All generated files are located at `dist` folder, which you can deploy with any hosting service.
 
-### Deploy to Netlify
+### LIVE Demo
+https://landing-page-starter.vercel.app/
 
-Clone this repository on own GitHub account and deploy to Netlify:
-
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)
-
-### Contributions
-
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
